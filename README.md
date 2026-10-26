@@ -60,9 +60,3 @@ To extract maximum signal from text data before feeding it to ML models, various
 - **Environment:** Jupyter Notebook / Google Colab
 
 ---
-
-## ⚡ Getting Started & Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Ananya18-23/DupQuery-NLP.git
