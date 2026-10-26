@@ -14,9 +14,6 @@ An end-to-end Machine Learning and Natural Language Processing (NLP) project aim
 - [Feature Engineering](#-feature-engineering)
 - [Exploratory Data Analysis (EDA)](#-exploratory-data-analysis-eda)
 - [Tech Stack](#-tech-stack)
-- [Getting Started & Installation](#-getting-started--installation)
-- [Usage](#-usage)
-- [Contributing](#-contributing)
 
 ---
 
